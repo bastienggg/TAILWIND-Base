@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --clr-white: 0 0% 100%;
+    --clr-red-bg: 0 72% 51%;
+    --clr-red-btn: 0 91% 71%;
+    --clr-blue-bg: 245 58% 51%;
+    --clr-bleu-btn: 239 84% 67%;
+    --clr-green-bg: 83 78% 55%;
+    --clr-green-btn: 81 88% 80%;
+  }
+}
