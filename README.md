@@ -6,18 +6,20 @@ Ce projet utilise **Tailwind CSS** avec **Vite** comme outil de développement e
 
 ## Structure
 
+```bash
 mon-projet-tailwind/
-├── node_modules/ # Dépendances du projet
-├── src/ # Dossier source pour vos fichiers
-│ ├── assets/ # Dossier pour les images, polices, etc.
-│ ├── index.css # Fichier principal de styles avec Tailwind
-│ └── main.js # Fichier JavaScript principal
-├── .gitignore # Fichier pour ignorer les node_modules
-├── .prettierrc.json # Extension pretier pour tailwind
-├── tailwind.config.js # Configuration de Tailwind CSS
-├── postcss.config.cjs # Configuration de PostCSS
-├── vite.config.js # Configuration de Vite
-├── package.json # Dépendances et scripts npm
-└── README.md # Ce fichier
+├── node_modules/         # Dépendances du projet
+├── src/                  # Dossier source pour vos fichiers
+│   ├── assets/           # Dossier pour les images, polices, etc.
+│   ├── index.css         # Fichier principal de styles avec Tailwind
+│   └── main.js           # Fichier JavaScript principal
+├── .gitignore            # Fichier pour ignorer les node_modules
+├── .prettierrc.json      # Configuration Prettier pour Tailwind
+├── tailwind.config.js    # Configuration de Tailwind CSS
+├── postcss.config.cjs    # Configuration de PostCSS
+├── vite.config.js        # Configuration de Vite
+├── package.json          # Dépendances et scripts npm
+└── README.md             # Ce fichier
+```
 
 ---
